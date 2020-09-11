@@ -13,3 +13,4 @@ This project is a Motivational Quote Picker built on Java and MongoDB.
 ## Logs
 **2020-09-10**
  - brokedown javaSays as a standalone submodule
+ - learning a lot about submodules
